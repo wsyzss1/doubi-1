@@ -61,7 +61,7 @@
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/wsyzss1/doubi-1/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
 ```
 
 ---
